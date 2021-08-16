@@ -9,10 +9,10 @@
 
 ## model
 >**generateface_with_styleGAN.ipynb**
-  styleGAN2를 이용하여 가상 인물을 생성
+  + styleGAN2를 이용하여 가상 인물을 생성
 
 >**photos_face_swapping.ipynb**
-  face swapping을 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
+  - face swapping을 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
 
 >**photos_face_shifter.ipynb**
   face shifter를 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
