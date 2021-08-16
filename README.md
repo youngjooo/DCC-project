@@ -2,9 +2,9 @@
 
 > 프로젝트 기한 : 07/26/21 - 08/31/21
 
-> 프로젝트 기업 : 에이아이닷엠
+> 프로젝트 기업 : [에이아이닷엠](http://aimlabs.ai/)
 
-> 프로젝트 NOTION link : [DCC_PROJECT](https://www.notion.so/pyzoo/5583e1ae7f59444580b0536584d9fc0c?v=fec0a5b9124644a4a5053645e1509b58)
+> 프로젝트 NOTION link : [2021데이터청년캠퍼스](https://www.notion.so/pyzoo/5583e1ae7f59444580b0536584d9fc0c?v=fec0a5b9124644a4a5053645e1509b58)
 - - -
 
 - **generateface_with_styleGAN.ipynb**
