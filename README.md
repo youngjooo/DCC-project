@@ -71,8 +71,8 @@
 > source_image
   - generateface_with_styleGAN에 사용한 데이터(source image)
   
-> face_url.csv
+> face_urln.csv
   - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 있는 이미지' 데이터(target image)
 
-> not_face_url.csv
+> not_face_urln.csv
   - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 없는 이미지' 데이터
