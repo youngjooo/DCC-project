@@ -10,6 +10,7 @@
 ## model folder
 > oneclick_code.ipynb
   + <generate face - face shifter - GPEN> 과정을 모두 담은 코드
+  - 아래 코드를 각각 따로 실행한 것을 하나의 코드로 정리한 것(같은 내용 - 자동화)
   - 런타임 유형 : GPU(colab pro 이용)
   
 > generateface_with_styleGAN.ipynb
@@ -33,11 +34,11 @@
   - 런타임 유형 : GPU
   
 > styleCLIP.ipynb
-  - styleCLIP을 이용하여 얼굴 변형
+  - styleCLIP을 이용하여 얼굴 변형 방법01
   - 런타임 유형 : GPU
 
 > beautyGAN.ipynb
-  - beautyGAN을 이용하여 얼굴 변형
+  - beautyGAN을 이용하여 얼굴 변형 방법02
   - 런타임 유형 : GPU
 
   
