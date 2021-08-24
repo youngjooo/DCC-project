@@ -35,7 +35,7 @@
 
   
 ## data folder
->>**img_data.csv**
+>**img_data.csv**
   - 사측으로부터 제공받은 raw data
->>**img_data_url.csv**
+>**img_data_url.csv**
   - facedetection_with_v2.ipynb에서 사용한 데이터
