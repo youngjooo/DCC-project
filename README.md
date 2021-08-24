@@ -22,7 +22,7 @@
 
 > face_shifter.ipynb
   - face shifter를 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
-  - 런타임 유형 : CPU / GPU
+  - 런타임 유형 : GPU
 
 > GPEN.ipynb
   - GPEN을 이용하여 대체한 이미지를 고화질로 변경
