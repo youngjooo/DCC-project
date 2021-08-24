@@ -20,3 +20,11 @@
 >**GPEN.ipynb**
   - GPEN을 이용하여 대체한 이미지를 고화질로 변경
 
+>**facedetection_with_v2.ipynb
+  - mobilenet_v2를 이용하여 사측으로부터 제공받은 데이터를 얼굴 유무로 분류
+
+>**beautyGAN.ipynb
+  - beautyGAN을 이용하여 얼굴 변형
+  
+>**styleCLIP.ipynb
+  - styleCLIP을 이용하여 얼굴 변형
