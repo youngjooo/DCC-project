@@ -7,7 +7,7 @@
 > 프로젝트 NOTION link : [2021데이터청년캠퍼스](https://www.notion.so/pyzoo/5583e1ae7f59444580b0536584d9fc0c?v=fec0a5b9124644a4a5053645e1509b58)
 - - -
 
-## code
+## model folder
 >**oneclick_code.ipynb**
   + <generate face - face shifter - GPEN> 과정을 모두 담은 코드
   - 한 번 클릭하면 모두 실행
@@ -32,3 +32,10 @@
 
 >**beautyGAN.ipynb**
   - beautyGAN을 이용하여 얼굴 변형
+
+  
+## data folder
+>>**img_data.csv**
+  - 사측으로부터 제공받은 raw data
+>>**img_data_url.csv**
+  - facedetection_with_v2.ipynb에서 사용한 데이터
