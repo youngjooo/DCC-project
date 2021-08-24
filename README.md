@@ -10,7 +10,6 @@
 ## model folder
 > oneclick_code.ipynb
   + <generate face - face shifter - GPEN> 과정을 모두 담은 코드
-  - 한 번 클릭하면 모두 실행
   
 > generateface_with_styleGAN.ipynb
   - styleGAN2를 이용하여 가상 인물을 생성
