@@ -8,38 +8,44 @@
 - - -
 
 ## model folder
->**oneclick_code.ipynb**
+> oneclick_code.ipynb
   + <generate face - face shifter - GPEN> 과정을 모두 담은 코드
   - 한 번 클릭하면 모두 실행
   
->**generateface_with_styleGAN.ipynb**
+> generateface_with_styleGAN.ipynb
   - styleGAN2를 이용하여 가상 인물을 생성
 
->**face_swapping.ipynb**
+> face_swapping.ipynb
   - face swapping을 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
 
->**face_shifter.ipynb**
+> face_shifter.ipynb
   - face shifter를 이용하여 생성 얼굴을 상품 이미지 속 얼굴로 대체
 
->**GPEN.ipynb**
+> GPEN.ipynb
   - GPEN을 이용하여 대체한 이미지를 고화질로 변경
 
->**facedetection_with_v2.ipynb**
+> facedetection_with_v2.ipynb
   - mobilenet_v2를 이용하여 사측으로부터 제공받은 데이터를 얼굴 유무로 분류
   
->**styleCLIP.ipynb**
+> styleCLIP.ipynb
   - styleCLIP을 이용하여 얼굴 변형
 
->**beautyGAN.ipynb**
+> beautyGAN.ipynb
   - beautyGAN을 이용하여 얼굴 변형
 
   
 ## data folder
->**img_data.csv**
+> img_data.csv
   - 사측으로부터 제공받은 raw data
   
->**img_data_url.csv**
-  - facedetection_with_v2.ipynb에서 사용한 데이터(target image)
+> img_data_url.csv
+  - facedetection_with_v2.ipynb에서 사용한 데이터
   
->**source_image**
+> source_image
   - generateface_with_styleGAN에 사용한 데이터(source image)
+  
+> face_url.csv
+  - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 있는 이미지' 데이터
+
+> not_face_url.csv
+  - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 없는 이미지' 데이터
