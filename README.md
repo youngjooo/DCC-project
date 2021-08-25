@@ -6,7 +6,12 @@
 
 > 프로젝트 NOTION link : [2021데이터청년캠퍼스_ai.m](https://www.notion.so/pyzoo/5583e1ae7f59444580b0536584d9fc0c?v=fec0a5b9124644a4a5053645e1509b58)
 - - -
-
+**ISSUE**
+-  로컬 환경 설정에 이슈가 있어, 구글 코랩으로 진행
+-  파이썬 공식 홈페이지에서 버전 지원 X
+-  로컬에 연결된 GPU와의 버전 충돌
+-  해당 내용은 기업(에이아이닷엠)도 충분히 인지하고 있음
+- - -
 ## model folder
 > oneclick_code.ipynb
   - <generate face - face shifter - GPEN> 과정을 모두 담은 코드
