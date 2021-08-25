@@ -77,7 +77,7 @@
 
 > not_face_urln.csv
   - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 없는 이미지' 데이터
-
+- - -
   
   
 ### **ISSUE**
