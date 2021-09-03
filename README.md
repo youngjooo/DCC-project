@@ -78,6 +78,11 @@
 > not_face_urln.csv
   - facedetection_with_v2.ipynb를 통해 분류된 '얼굴이 없는 이미지' 데이터
 - - -
+> aim_final_10min.pdf
+   - 내부 예선(10분용) 발표 자료
+
+> aim_final_15min.pdf
+  - 내부 본선(15분용) 발표 자료
   
   
 ### **ISSUE**
